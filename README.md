@@ -1,5 +1,5 @@
 ## Titanic passenger survival prediction
-This repository contains the code and documentation for my project on the Titanic passenger survival prediction, a competition hosted by Kaggle. The goal of this project is to apply data mining techniques to predict the survival of passengers aboard the Titanic using various machine learning models
+This repository contains the code and documentation for my project on the Titanic passenger survival prediction, a competition hosted by Kaggle ([link](https://www.kaggle.com/competitions/titanic)). The goal of this project is to apply data mining techniques to predict the survival of passengers aboard the Titanic using various machine learning models
 
 ### Dataset
 The dataset used in this project is the Titanic dataset provided by Kaggle. It contains information about passengers aboard the Titanic, including their survival status, age, sex, passenger class, and more.
