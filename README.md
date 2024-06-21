@@ -61,4 +61,3 @@ the results in detail can be accessed from the `results.md` page ([link](results
 ### Authors
 1. Ammar Ahmad Kidwai ([github](https://github.com/Amm4r03))
 2. Iliya Sabat ([github](https://github.com/iliyasabat))
-3. Mohd. Waize Ali Khan
