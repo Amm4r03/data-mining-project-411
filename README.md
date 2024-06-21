@@ -3,6 +3,22 @@ This repository contains the code and documentation for my project on the Titani
 
 ### Dataset
 The dataset used in this project is the Titanic dataset provided by Kaggle. It contains information about passengers aboard the Titanic, including their survival status, age, sex, passenger class, and more.
+given below is a list of all headers in the dataset
+
+| Header      | Description                                                                            |
+|:-----------:| -------------------------------------------------------------------------------------- |
+| PassengerId | unique ID assigned to each passenger                                                   |
+| Survived    | survival status of the passenger - 1 if the passenger survived, else 0                 |
+| Pclass      | Ticket class (1, 2, 3)                                                                 |
+| Name        | name of the passenger                                                                  |
+| Sex         | sex of the passenger                                                                   |
+| Age         | Age of the passenger in years                                                          |
+| SibSp       | number of siblings / spouses aboard the Titanic                                        |
+| Parch       | number of parents / children aboard the Titanic                                        |
+| Ticket      | ticket number                                                                          |
+| Cabin       | Cabin number                                                                           |
+| Embarked    | port of embarkation for the passenger (C = Cherbourg, Q = Queenstown, S = Southampton) |
+| Fare        | Passenger fare                                                                         |
 
 ### Requirements
 This project makes use of the following libraries and packages
