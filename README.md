@@ -10,6 +10,8 @@ This project makes use of the following libraries and packages
 - Pandas
 - Scikit-learn
 - matplotlib
+- Tensorflow
+- Seaborn
 
 this project can be run on google colab notebooks 
 
