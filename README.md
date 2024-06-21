@@ -12,7 +12,7 @@ given below is a list of all headers in the dataset
 | Pclass      | Ticket class (1, 2, 3)                                                                 |
 | Name        | name of the passenger                                                                  |
 | Sex         | sex of the passenger                                                                   |
-| Age         | Age of the passenger in years                                                          |
+| Age         | Age of the passenger in years - Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5                                                          |
 | SibSp       | number of siblings / spouses aboard the Titanic                                        |
 | Parch       | number of parents / children aboard the Titanic                                        |
 | Ticket      | ticket number                                                                          |
